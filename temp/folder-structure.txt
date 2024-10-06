@@ -1,8 +1,14 @@
-└── app
-    ├── favicon.ico
-    ├── fonts
-    │   ├── GeistMonoVF.woff
-    │   └── GeistVF.woff
-    ├── globals.css
-    ├── layout.tsx
-    └── page.tsx
+├── app
+│   ├── favicon.ico
+│   ├── fonts
+│   │   ├── GeistMonoVF.woff
+│   │   └── GeistVF.woff
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components
+│   ├── forms
+│   ├── navigation
+│   └── ui
+├── services
+└── styles
